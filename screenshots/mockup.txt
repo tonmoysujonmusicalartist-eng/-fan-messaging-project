@@ -1,0 +1,14 @@
+FAN MESSAGING APP MOCKUP
+
+Main Features (concept):
+- Fan sends message via WhatsApp
+- Twilio API receives message
+- System routes message to inbox
+- Artist (Tonmoy Sujon) replies from a dashboard
+
+Sample UI Idea:
+[Fan] Hi Tonmoy! Huge fan of your music ❤️
+[System] New message received
+[You] Thanks for your message! Stay connected for updates.
+
+This mockup is created only for Twilio verification purposes.
